@@ -18,8 +18,10 @@ A schematic is a graphical representation of the electrical connections in your 
 - Download [Adafruit & SparkFun](https://www.autodesk.com/products/fusion-360/blog/library-basics-install-use-sparkfun-adafruit-libraries-autodesk-eagle) library to get all the components.
 - Use **Add Part** tool to get the components or just do *ctrl+L* to activate the command line mode and type **add** then a pop window will appear showing the components list.
 - The most used tools include **Add**, **Move**, **Rotate**, and **Delete**.
+- To do the above operations, Click on the red colour plus(+) sign which is present either near the specific component or in the center of the component.
 - Use the **Net** tool or type **net** to connect the components with wires.
 - Save your schematic by clicking on **File** and then **Save**.
+- After completing all, click Tools and do Electric Rule Check(ERC). 
 - **Some hotkeys for drawing schematic are as follows:**
 - Add Part: *ctrl+shift+A*
 - Copy a component: *ctrl+shift+C*
@@ -27,6 +29,9 @@ A schematic is a graphical representation of the electrical connections in your 
 - Move: *ctrl+M*
 - Rename a component: *ctrl+shift+N*
 - Change value of component: *ctrl+shift+V*
+- To run ERC: *ctrl+shift+E*
+- To see the error: *ctrl+E*
+- **To transfer the schematic into layout in the schematic editor go the *File* and then *Switch to board* **
 ## Step 4: Designing the PCB
 Once you have created a schematic, the next step is to design the PCB board or layout.
 - Open the PCB editor by clicking on **File** and then **Switch to Board**
