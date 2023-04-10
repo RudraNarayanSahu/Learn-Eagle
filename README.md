@@ -23,14 +23,14 @@ A schematic is a graphical representation of the electrical connections in your 
 - Save your schematic by clicking on **File** and then **Save**.
 - After completing all, click Tools and do Electric Rule Check(ERC). 
 - **Some hotkeys for drawing schematic are as follows:**
--- Add Part: *ctrl+shift+A*
-- Copy a component: *ctrl+shift+C*
-- Delete a component: *ctrl+D*
-- Move: *ctrl+M*
-- Rename a component: *ctrl+shift+N*
-- Change value of component: *ctrl+shift+V*
-- To run ERC: *ctrl+shift+E*
-- To see the error: *ctrl+E*
+  - Add Part: *ctrl+shift+A*
+  - Copy a component: *ctrl+shift+C*
+  - Delete a component: *ctrl+D*
+  - Move: *ctrl+M*
+  - Rename a component: *ctrl+shift+N*
+  - Change value of component: *ctrl+shift+V*
+  - To run ERC: *ctrl+shift+E*
+  - To see the error: *ctrl+E*
 - **To transfer the schematic into layout in the schematic editor go the *File* and then *Switch to board***
 ## Step 4: Designing the PCB
 Once you have created a schematic, the next step is to design the PCB board or layout.
