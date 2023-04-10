@@ -23,7 +23,7 @@ A schematic is a graphical representation of the electrical connections in your 
 - Save your schematic by clicking on **File** and then **Save**.
 - After completing all, click Tools and do Electric Rule Check(ERC). 
 - **Some hotkeys for drawing schematic are as follows:**
-- Add Part: *ctrl+shift+A*
+-- Add Part: *ctrl+shift+A*
 - Copy a component: *ctrl+shift+C*
 - Delete a component: *ctrl+D*
 - Move: *ctrl+M*
