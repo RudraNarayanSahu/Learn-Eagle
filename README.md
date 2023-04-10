@@ -20,6 +20,13 @@ A schematic is a graphical representation of the electrical connections in your 
 - The most used tools include **Add**, **Move**, **Rotate**, and **Delete**.
 - Use the **Net** tool or type **net** to connect the components with wires.
 - Save your schematic by clicking on **File** and then **Save**.
+- **Some hotkeys for drawing schematic are as follows:**
+- Add Part: *ctrl+shift+A*
+- Copy a component: *ctrl+shift+C*
+- Delete a component: *ctrl+D*
+- Move: *ctrl+M*
+- Rename a component: *ctrl+shift+N*
+- Change value of component: *ctrl+shift+V*
 ## Step 4: Designing the PCB
 Once you have created a schematic, the next step is to design the PCB board or layout.
 - Open the PCB editor by clicking on **File** and then **Switch to Board**
