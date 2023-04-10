@@ -1,10 +1,10 @@
 # EAGLE
 Eagle is a popular electronic design automation (EDA) software that is widely used in the industry for designing printed circuit boards (PCBs). Follow the steps instructions to get started with Eagle software.
 ## Step 1: Download and Install Eagle Software.
-`[Go to the Eagle website](https://www.autodesk.com/products/eagle/free-download) and click on the **Download Now** button.
-`Create an account or sign into your existing account.
--Select the appropriate version of Eagle for your os (Windows, Mac, or Linux).
--Follow the on-screen instructions to complete the installation.
+- [Go to the Eagle website](https://www.autodesk.com/products/eagle/free-download) and click on the **Download Now** button.
+- Create an account or sign into your existing account.
+- Select the appropriate version of Eagle for your os (Windows, Mac, or Linux).
+- Follow the on-screen instructions to complete the installation.
 ## Step 2: Creating a New Project
 -Open the Eagle software.
 -Click on **File** and then **New** to create a new project.
