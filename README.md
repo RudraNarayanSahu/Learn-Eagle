@@ -31,7 +31,7 @@ A schematic is a graphical representation of the electrical connections in your 
 - Change value of component: *ctrl+shift+V*
 - To run ERC: *ctrl+shift+E*
 - To see the error: *ctrl+E*
-- **To transfer the schematic into layout in the schematic editor go the *File* and then *Switch to board* **
+- **To transfer the schematic into layout in the schematic editor go the *File* and then *Switch to board***
 ## Step 4: Designing the PCB
 Once you have created a schematic, the next step is to design the PCB board or layout.
 - Open the PCB editor by clicking on **File** and then **Switch to Board**
