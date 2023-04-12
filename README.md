@@ -9,6 +9,7 @@ Eagle is a popular electronic design automation (EDA) software that is widely us
 - Open the Eagle software.
 - Click on **File** and then **New** to create a new project.
 - Enter a name for your project and choose a location to save it.
+- Its a good practice to add description to your project do that by Right Click > Edit descripton
 - Select a schematic template for your project.
 ## Step 3: Drawing Schematic
 A schematic is a graphical representation of the electrical connections in your circuit.
@@ -16,6 +17,7 @@ A schematic is a graphical representation of the electrical connections in your 
 - Use the tools on the left-hand side of the screen to draw the components of your circuit. You can also use the search function to find specific components.
 - Eagle comes with a built-in library of components that you can use in your designs but you can also create your own components or import them from other sources.
 - Download [Adafruit & SparkFun](https://www.autodesk.com/products/fusion-360/blog/library-basics-install-use-sparkfun-adafruit-libraries-autodesk-eagle) library to get all the components.
+- After downloading click on **Library** then select **Open library manager** Browse to the downloaded library and then hit **update all** in Library Menu.
 - Use **Add Part** tool to get the components or just do *ctrl+L* to activate the command line mode and type **add** then a pop window will appear showing the components list.
 - The most used tools include **Add**, **Move**, **Rotate**, and **Delete**.
 - To do the above operations, Click on the red colour plus(+) sign which is present either near the specific component or in the center of the component.
