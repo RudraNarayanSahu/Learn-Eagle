@@ -43,7 +43,9 @@ Once you have created a schematic, the next step is to design the PCB board or l
 - Use the tools on the left-hand side of the screen to place the components on the PCB.
 - Plan a floor plan to place the components in their suitable places to use more effective area.
 - Use the **Route** tool to connect the components with copper traces.
+- Eagle provides 2-layer PCB in the free version in which you can route both in top and bottom layer.
 - Add vias and through-holes as needed.
+- Some more features are Polygon, ratsnest, renaming and changing the value all you can do using the tools available on the left hand side of the screen.
 - Save your PCB design by clicking on **File** and then **Save**
 - Before finalizing the design, check the design rules. Design rules ensure that the board meets the manufacturer's specifications. Click on **DRC** and run the check.
 ## Step 5: Exporting the Design
